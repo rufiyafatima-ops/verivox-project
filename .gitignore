@@ -14,3 +14,10 @@ __pycache__/
 # OS junk files
 .DS_Store
 Thumbs.db
+
+# Large binaries and test files
+voice-detection/phoneinfoga.exe
+*.wav
+*.mp3
+*.mp4
+*.m4a
