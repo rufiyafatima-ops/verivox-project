@@ -1,0 +1,16 @@
+# Secrets — never commit these
+backend/serviceAccountKey.json
+*.json.key
+
+# Database files
+backend/verivox.db
+*.db
+
+# Python environment stuff
+venv/
+__pycache__/
+*.pyc
+
+# OS junk files
+.DS_Store
+Thumbs.db
