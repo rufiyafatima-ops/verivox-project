@@ -1,0 +1,27 @@
+# FastAPI Backend & WebSockets
+fastapi>=0.104.0
+uvicorn[standard]>=0.23.2
+websockets>=11.0.3
+python-multipart>=0.0.6
+
+# Deep Learning & ML Frameworks
+torch>=2.0.0
+torchaudio>=2.0.0
+transformers>=4.35.0
+huggingface-hub>=0.19.0
+
+# Speech Recognition (ASR) & Audio Processing
+openai-whisper
+librosa>=0.10.1
+soundfile>=0.12.1
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Image & Spectrogram Processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# OSINT & Utilities
+requests>=2.31.0
+pydantic>=2.4.2
+python-dotenv>=1.0.0
